@@ -1,0 +1,5 @@
+id,name,age,country,active,spent
+1,Alice,22,USA,True,1200
+2,Bob,17,India,False,300
+3,Carol,30,USA,True,2200
+4,Dave,25,India,True,900
